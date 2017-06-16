@@ -1,0 +1,23 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 16 Jun 2017 10:53:07 at http://nicolaegabriel.info/live/admin-easy-bootstrap/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://nicolaegabriel.info/live/admin-easy-bootstrap/ -O1 "D:\Web data\!site download\htmlAdmin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:54:16	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.tipsy/tipsy.css (from nicolaegabriel.info/live/admin-easy-bootstrap/)
+10:57:50	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/messages.html (from nicolaegabriel.info/live/admin-easy-bootstrap/)
+10:57:50	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.scrollbar/jquery.mousewheel.js (from nicolaegabriel.info/live/admin-easy-bootstrap/)
+10:57:50	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.scrollbar/perfect-scrollbar.js (from nicolaegabriel.info/live/admin-easy-bootstrap/)
+10:57:50	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.tipsy/tipsy.js (from nicolaegabriel.info/live/admin-easy-bootstrap/)
+10:57:50	Warning: 	Retry after error -4 (No data (connection closed)) at link nicolaegabriel.info/live/admin-easy-bootstrap/images/icon-162.png (from nicolaegabriel.info/live/admin-easy-bootstrap/style.css)
+10:57:57	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.scrollbar/perfect-scrollbar.css (from nicolaegabriel.info/live/admin-easy-bootstrap/nestable-lists.html)
+10:57:59	Warning: 	Retry after error -4 (No data (connection closed)) at link nicolaegabriel.info/live/admin-easy-bootstrap/images/gallery-img-05.png (from nicolaegabriel.info/live/admin-easy-bootstrap/gallery.html)
+10:57:59	Warning: 	Retry after error -4 (No data (connection closed)) at link nicolaegabriel.info/live/admin-easy-bootstrap/images/gallery-img-11.png (from nicolaegabriel.info/live/admin-easy-bootstrap/gallery.html)
+10:57:59	Warning: 	Retry after error -4 (No data (connection closed)) at link nicolaegabriel.info/live/admin-easy-bootstrap/images/gallery-img-17.png (from nicolaegabriel.info/live/admin-easy-bootstrap/gallery.html)
+10:57:59	Warning: 	Retry after error -4 (No data (connection closed)) at link nicolaegabriel.info/live/admin-easy-bootstrap/images/gallery-img-22.png (from nicolaegabriel.info/live/admin-easy-bootstrap/gallery.html)
+10:58:02	Error: 	"Not Found" (404) at link nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.mCustomScrollbar/mCSB_buttons.png (from nicolaegabriel.info/live/admin-easy-bootstrap/scripts/jquery.mCustomScrollbar/jquery.mcustomscrollbar.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 1 seconds : 464 links scanned, 451 files written (6703704 bytes overall) [5974184 bytes received at 19847 bytes/sec], 1207540 bytes transferred using HTTP compression in 42 files, ratio 26%, 6.4 requests per connection
+(7 errors, 5 warnings, 0 messages)
